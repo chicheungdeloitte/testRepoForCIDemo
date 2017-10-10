@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Demo for ocker CI course",
   "main": "app.js",
-  "author": "Luke Angel",
+  "author": "Srinivasa Kadiyala",
   "dependencies": {
     "express": "3.2.4",
     "hbs": "^4.0.1",
